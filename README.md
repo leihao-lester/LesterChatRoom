@@ -1,4 +1,4 @@
-# ChatRoom
+# LesterChatRoom
 这是一个聊天室小应用，采用JavaFx和JavaSocket完成。
 ### 安装与使用
 下载整个项目的源码，设置JDK18，引入JavaFx（20）的依赖，然后先运行Server.java打开服务器端，再运行Client.java打开客户端（可以打开多个客户端），记得在idea里设置下同时运行多个实例，关闭的时候顺序反过来即可。
